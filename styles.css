@@ -1,0 +1,66 @@
+body{
+    /* background-color: yellow;  */
+}
+li{
+    color: white;
+    text-decoration: none;
+    list-style-type: none;
+    padding: 5px;
+}
+.back{
+    background-image: url("images/bg-tablet-pattern.svg") !important;
+    /* background-position-y: -150px; */
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 500px; 
+    /* max-width:10%; */
+    height: auto;    
+}
+.back2{
+    background-image: url("images/bg-tablet-pattern.svg") !important;
+    background-position-y: -250px;
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: 500px; 
+    /* max-width:10%; */
+    /* height: auto;     */
+}
+#btn1{
+    /* border-radius: 50%; */
+    border-radius: 20px;
+    background-color: hsl(12, 88%, 59%);
+    color: white;
+    /* width: 50% !important; */
+}
+#btn2{
+    /* border-radius: 50%; */
+    border-radius: 20px;
+    background-color: hsl(12, 88%, 59%);
+    color: white;
+    /* width: 50% !important; */
+}
+#btn3{
+    /* border-radius: 50%; */
+    border-radius: 20px;
+    background-color: white;
+    color: hsl(12, 88%, 59%);
+    /* width: 50% !important; */
+}
+h1{
+    font-size: 16px;
+}
+.text{
+    color: hsl(228, 39%, 23%) !important;
+    
+}
+.text2{
+    color: hsl(227, 12%, 61%) !important;
+}
+input[type=text]{
+    width: 70% !important;
+    outline: none;
+    height: 50px !important; 
+    border-radius: 50px !important; 
+}
+
+
